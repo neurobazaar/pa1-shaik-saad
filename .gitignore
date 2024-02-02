@@ -3,3 +3,4 @@ app-java/target
 app-cpp/build
 .vscode
 .venv
+app-java/.idea
